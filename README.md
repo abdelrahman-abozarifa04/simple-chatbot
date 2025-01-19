@@ -1,6 +1,3 @@
-Here’s your “Simple Chatbot” project description improved with engaging structure and relevant emojis:
-
----
 
 # 🤖 Simple Chatbot
 
@@ -94,6 +91,4 @@ For any questions, suggestions, or issues, feel free to reach out to [as0144549@
 
 Thank you for your interest in the **Simple Chatbot** project! We hope it provides a solid foundation for exploring and developing chatbots!
 
----
 
-Let me know if you need any further improvements or changes!
